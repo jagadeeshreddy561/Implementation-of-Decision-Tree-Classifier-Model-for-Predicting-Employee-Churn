@@ -21,7 +21,7 @@ Find the accuracy of the model and predict the required values by importing the 
 
 ## Program:
 Program to implement the Decision Tree Classifier Model for Predicting Employee Churn.
-## Developed by: jagadeeshreddy
+## Developed by: Mallu Jagadeeswar Reddy
 ## RegisterNumber: 212222240059  
 ```python
 
